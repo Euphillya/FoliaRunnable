@@ -1,5 +1,3 @@
-package com.magmaguy.magmacore.util;
-
 import io.papermc.paper.threadedregions.scheduler.*;
 import org.bukkit.Location;
 import org.bukkit.World;
